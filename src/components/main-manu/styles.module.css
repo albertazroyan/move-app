@@ -1,0 +1,58 @@
+/* MainMenu.css */
+.main {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+    display: flex;
+    opacity: 0.9;
+    flex-direction: column;
+    height: 100vh;
+    background: black;
+    min-width: 46px;
+  }
+
+.user img {
+  width: 60px;
+}
+
+.user { margin-bottom: 20px; }
+
+.manuIcon {
+  display: flex;
+  padding: 12px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.manuIcon:hover {
+  background: #4635a7;
+  /* border-radius: 8px; */
+}
+
+.manuIcon img {
+  width: 24px;
+}
+
+.manuIcon span, .user span {
+  color: white;
+  padding-left: 20px;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  margin: 10px;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.content {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+  

@@ -1,0 +1,29 @@
+ [
+    {
+      "src": "icons/ICON - search.png",
+      "title": "Search",
+      "_id": "search"
+    },
+    {
+      "src": "icons/Group 46.png",
+      "title": "Home",
+      "_id" : "home"
+    },
+    {
+      "src": "icons/Group 56.png",
+      "title": "Tv shows",
+      "_id": "tvshows"
+    },
+    {
+      "src": "icons/Group 54.png",
+      "title": "Movies"
+    },
+    {
+      "src": "icons/Group 53.png",
+      "title": "Genres"
+    },
+    {
+      "src": "icons/Group 47.png",
+      "title": "Watch Later"
+    }
+  ]
