@@ -1,4 +1,4 @@
-# move app
+# Move app
 
 ## Installation
 
